@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/sshahnawaz97026" target="blank"><img src="https://img.shields.io/twitter/follow/sshahnawaz97026?logo=twitter&style=for-the-badge" alt="sshahnawaz97026" /></a> </p>
 
-- 🌱 I’m currently learning **AI, ML, DL, NLP**
+- 🌱 I’m currently learning **LLM, GEN AI**
 
-- 💬 Ask me about **Artificial intelligence,Machine learning**
+- 💬 Ask me about **Artificial intelligence,Machine learning, Deep Learning**
 
 - 📫 How to reach me **sshahnawaz567@gmail.com**
 
